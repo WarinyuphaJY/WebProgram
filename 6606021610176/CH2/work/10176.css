@@ -1,0 +1,19 @@
+body {
+    background: lightblue;
+    color: black;
+}
+h2 {
+    text-align: center;
+    font-size: 18pt;
+    color: purple;
+}
+h3 {
+    text-align: center;
+    font-size: 18pt;
+    color: blue;
+}
+p {
+    text-align: center;
+    font-style: normal;
+    color: black;
+}
