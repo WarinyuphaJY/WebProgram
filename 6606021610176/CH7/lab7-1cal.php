@@ -2,7 +2,7 @@
 <head><title>แสดงการใช้ฟังก์ชั่น date </title>
 </head>
 <body>
-    <?
+    <?php
     echo "<h3>";
     if ( isset($_GET['day']) && isset($_GET['month']) &&
     isset($_GET['year']) ) {
