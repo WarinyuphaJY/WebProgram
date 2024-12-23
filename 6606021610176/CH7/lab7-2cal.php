@@ -2,7 +2,7 @@
 <head><title>แสดงการใช้ฟังก์ชั่น variable </title>
 </head>
 <body>
-    <?
+    <?php
     echo "<h3>";
     if ( isset($_GET['data']) ) {
         $data = $_GET['data'];
