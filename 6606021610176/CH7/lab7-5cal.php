@@ -2,7 +2,7 @@
 <head><title>แสดงการใช้ฟังก์ชั่นคณิตศาสตร์ </title>
 </head>
 <body>
-    <?
+    <?php
     echo "<h3>";
     if ( isset($_GET['number1']) && isset($_GET['number2']) &&
     isset($_GET['angle']) ) {
