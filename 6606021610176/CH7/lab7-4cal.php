@@ -2,7 +2,7 @@
 <head><title>แสดงการใช้ฟังก์ชั่นข้อความ </title>
 </head>
 <body>
-    <?
+    <?php
     echo "<h3>";
     if ( isset($_GET['data']) && isset($_GET['ch']) ) {
         $data = $_GET['data'];
